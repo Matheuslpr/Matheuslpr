@@ -1,6 +1,6 @@
 # Matheus Rodrigues
 
-#### 🎓 Analise e Desenvolvimento de Sistemas | PUCPR
+#### 🎓 Análise e Desenvolvimento de Sistemas | PUCPR
 
 ## About me:
 ``` JSON

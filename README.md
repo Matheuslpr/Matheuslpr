@@ -7,7 +7,7 @@
 {
   "developer" : {
     "name": "Matheus Rodrigues",
-    "stack": "Java | Spring Framework
+    "stack": "Java | Spring Framework"
   }
 }
 ```
